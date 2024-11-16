@@ -1,0 +1,6 @@
+requirements.txt
+requirements_new_2.txt
+venv
+.vscode
+__pycache__
+dataset
